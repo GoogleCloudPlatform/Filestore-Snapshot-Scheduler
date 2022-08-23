@@ -1,4 +1,4 @@
-# GCP Filestore Snapshots Scheduler Solutin
+# GCP Filestore Snapshots Scheduler Solution
 
 A cloud solution for automating a snapshots scheduling process for GCP
 Filestore managed-service.
