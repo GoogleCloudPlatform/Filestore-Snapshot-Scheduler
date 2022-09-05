@@ -1,0 +1,9 @@
+# Function dependencies, for example:
+# package>=version
+google-api-python-client
+google-cloud-logging
+jsonschema
+monotonic
+oauth2client
+requests==2.24.0
+werkzeug
