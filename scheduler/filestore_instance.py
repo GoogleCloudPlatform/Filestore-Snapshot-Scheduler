@@ -42,7 +42,7 @@ TIME_PATTERN = "%Y%m%d-%H%M%S"
 SNAP_PREFIX = "sched-"
 # Filestore tiers support snapshots feature.
 # Refer https://cloud.google.com/filestore/docs/create-snapshots#supported_tiers
-SUPPORTED_TIERS = ["ENTERPRISE"]
+SUPPORTED_TIERS = ["ENTERPRISE","HIGH_SCALE_SSD"]
 # Maximum number of snapshots per Filestore instance
 # Refer https://cloud.google.com/filestore/docs/limits#number_of_snapshots
 MAX_NUMBER_OF_SNAPSHOTS = 240
