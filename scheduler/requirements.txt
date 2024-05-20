@@ -5,5 +5,5 @@ google-cloud-logging
 jsonschema
 monotonic
 oauth2client
-requests==2.24.0
+requests==2.32.0
 werkzeug
